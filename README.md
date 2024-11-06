@@ -1,17 +1,19 @@
 # Buffallo
 ACERCA DE 
+Buffalo es una aplicación
 
-Bu
 
 USO
+Visual studio version 
 
 DEPENDENCIAS
 
 vite
 
+
 react-dom   
 
 typescript
 
-git push origin branch-name
+
 
